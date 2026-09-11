@@ -1,4 +1,4 @@
-# 🏥 Diabetes Risk & Patient Health Analytics Dashboard!
+# 🏥 Diabetes Risk & Patient Health Analytics Dashboard
 
 An end-to-end Healthcare Business Intelligence and Data Analytics project built using **Microsoft Power BI** and **Power Query**. This interactive dashboard investigates how patient lifestyle habits, physical activity levels, and clinical metrics correlate with diabetes risk across major urban populations.
 
