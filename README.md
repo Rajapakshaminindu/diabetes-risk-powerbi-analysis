@@ -63,9 +63,11 @@ From the dashboard visualizations and multi-attribute slicing of **1,535 patient
 
 ```text
 ├── data/
-│   └── diabetes_risk.csv            <-- Primary dataset (1,535 patient records)
+│   └── diabetes_risk.csv            <-- Primary dataset
 ├── images/
 │   └── dashboard_preview.png        <-- High-resolution dashboard screenshot
+├── scripts/
+│   └── validate_and_analyze.py      <-- Python data validation & EDA script
 └── README.md                        <-- Comprehensive project documentation & findings
 ```
 
