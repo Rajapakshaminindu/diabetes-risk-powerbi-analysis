@@ -1,0 +1,39 @@
+{
+  "total_records": 15000,
+  "average_age": 44.33,
+  "average_bmi": 23.06,
+  "bmi_categories": {
+    "Overweight": 3622,
+    "Normal": 8660,
+    "Obese": 862,
+    "Underweight": 1856
+  },
+  "risk_distribution": {
+    "Low": 9000,
+    "High": 2250,
+    "Moderate": 3750
+  },
+  "activity_analysis": {
+    "Sedentary": {
+      "total_patients": 4950,
+      "high_risk_count": 1040,
+      "high_risk_rate_pct": 21.01
+    },
+    "Moderate": {
+      "total_patients": 4950,
+      "high_risk_count": 711,
+      "high_risk_rate_pct": 14.36
+    },
+    "Active": {
+      "total_patients": 5100,
+      "high_risk_count": 499,
+      "high_risk_rate_pct": 9.78
+    }
+  },
+  "protective_factor_ratio": 2.15,
+  "missing_fields": {
+    "smoking_status": 472,
+    "alcohol_consumption": 3788,
+    "income_bracket": 463
+  }
+}
