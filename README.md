@@ -66,6 +66,8 @@ From the dashboard visualizations and multi-attribute slicing of **1,535 patient
 │   └── diabetes_risk.csv            <-- Primary dataset (1,535 patient records)
 ├── images/
 │   └── dashboard_preview.png        <-- High-resolution dashboard screenshot
+├── powerquery/
+│   └── transformations.m            <-- Executable Power Query M transformation script
 └── README.md                        <-- Comprehensive project documentation & findings
 ```
 
