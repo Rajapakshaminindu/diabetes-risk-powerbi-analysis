@@ -64,6 +64,8 @@ From the dashboard visualizations and multi-attribute slicing of **1,535 patient
 ```text
 ├── data/
 │   └── diabetes_risk.csv            <-- Primary dataset (1,535 patient records)
+├── docs/
+│   └── DAX_MEASURES.md              <-- Complete Power BI DAX calculations reference
 ├── images/
 │   └── dashboard_preview.png        <-- High-resolution dashboard screenshot
 └── README.md                        <-- Comprehensive project documentation & findings
